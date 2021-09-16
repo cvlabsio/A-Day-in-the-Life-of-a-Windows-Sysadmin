@@ -267,3 +267,14 @@ Provide the following:
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+---
+
+## Week 7 Homework Solution: A Day in the Life of a Windows Sysadmin
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Week 7 Homework A Day in the Life of a Windows Sysadmin](https://github.com/karma-786/Week-7-Homework-A-Day-in-the-Life-of-a-Windows-Sysadmin/blob/main/Week%207%20Homework%20A%20Day%20in%20the%20Life%20of%20a%20Windows%20Sysadmin.md)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
